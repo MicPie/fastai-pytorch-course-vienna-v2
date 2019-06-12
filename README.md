@@ -3,4 +3,6 @@ This is the repository for the upcoming learning group meetup in October based o
 
 We will also cover the [swift for tensorflow (S4TF)](https://www.tensorflow.org/swift) part from [fastai v3 part 2](https://course.fast.ai) course.
 
-[Registration is open](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform) and more information will be available soon!
+*[Registration is open](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform) and more information will be available soon!*
+
+See also the repository from the [fastai pytorch course in Vienna v1](https://github.com/MicPie/fastai-pytorch-course-vienna).
