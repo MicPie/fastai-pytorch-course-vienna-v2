@@ -1,4 +1,4 @@
-# fastai-pytorch-course-vienna-v2
+# Fastai v2, PyTorch, and S4T Course in Vienna v2
 This is the repository for the upcoming learning group meetup in October based on [fast.ai v3 part 2 course](https://course.fast.ai/part2), [fastai v2 library](https://github.com/fastai/fastai) (will be available in the next weeks), and [PyTorch v1](https://pytorch.org) course in Vienna v2.
 
 We will also cover the [swift for tensorflow (S4TF)](https://www.tensorflow.org/swift) part from [fastai v3 part 2 course](https://course.fast.ai/part2).
