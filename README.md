@@ -5,6 +5,6 @@ We will also cover the [swift for tensorflow (S4TF)](https://www.tensorflow.org/
 
 ***[Registration is open and more information will be available soon!](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform)***
 
-*For this learning group meetup you are expected to have gone through the [fast.ai v3 part 1 course material](https://course.fast.ai) and to have at least one year experience with programming. You should feel comfortable with programming in Python as well as having basic knowledge in Calculus and Linear Algebra. Some machine learning background is advised to make best use of the course.*
+*For this learning group meetup you are expected to have basic knowledge of deep learning or have gone through the [fast.ai v3 part 1 course material](https://course.fast.ai) and to have at least one year experience with programming. You should feel comfortable with programming in Python as well as having basic knowledge in Calculus and Linear Algebra. Some machine learning background is advised to make best use of the course.*
 
 See also the repository from the previous [fastai pytorch course in Vienna v1](https://github.com/MicPie/fastai-pytorch-course-vienna) based on the [fast.ai v3 part 1 course material](https://course.fast.ai).
