@@ -68,7 +68,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [fast.ai forum](https://forums.fast.ai) (this should be your third address if you are searching for something)
   * [fast.ai v3 part 2 sub-forum](https://forums.fast.ai/c/part2-v3)
   * [fastai v2 sub-forum](https://forums.fast.ai/c/fastai-users/fastai-v2)
-  * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
+  * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119/10)
 * [TWiML fast.ai v3 part 2 study group material](https://github.com/jcatanza/Fastai-Deep-Learning-From-the-Foundations-TWiML-Study-Group)
 
 ### Preparation
