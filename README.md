@@ -60,13 +60,16 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ## Information material
 ### Course
-* [Fast.ai MOOC Details](https://www.fast.ai/2019/06/28/course-p2v3/)
-* [Fast.ai MOOC Material](https://course.fast.ai/part2) (this should be your first address if you are searching for something)
-* [Fast.ai MOOC - Part 2 Notebooks](https://github.com/fastai/course-v3/tree/master/nbs/dl2)
-* [Fastai docs](https://docs.fast.ai) (this should be your second address if you are searching for something)
+* [fast.ai v3 part 2 course details](https://www.fast.ai/2019/06/28/course-p2v3/)
+* [fast.ai v3 part 2 course material](https://course.fast.ai/part2) (this should be your first address if you are searching for something)
+* [fast.ai v3 part 2 course notebooks](https://github.com/fastai/course-v3/tree/master/nbs/dl2)
+* [fastai v1 docs](https://docs.fast.ai) (this should be your second address if you are searching for something)
 * [fastai v2 dev repo](https://github.com/fastai/fastai_dev) (We will have a look at the notebooks used for the development of fastai v2 to see how the different parts end up in the library.)
 * [fast.ai forum](https://forums.fast.ai) (this should be your third address if you are searching for something)
+  * [fast.ai v3 part 2 sub-forum](https://forums.fast.ai/c/part2-v3)
+  * [fastai v2 sub-forum](https://forums.fast.ai/c/fastai-users/fastai-v2)
   * [Study group in Austria thread on the Fast.ai forum](https://forums.fast.ai/t/study-group-in-austria/26119)
+* [TWiML fast.ai v3 part 2 study group material](https://github.com/jcatanza/Fastai-Deep-Learning-From-the-Foundations-TWiML-Study-Group)
 
 ### Preparation
  * [See preparation part from our first learning group.](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#preparation)
