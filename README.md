@@ -10,11 +10,15 @@ This is the repository for the upcoming learning group meetup in October based o
 
 
 ## Dates
+-- PyTorch Python part --
 * Lesson 8: tba
 * Lesson 9: tba
 * Lesson 10: tba
 * Lesson 11: tba
 * Lesson 12: tba
+-- Xmas break --
+* Lesson 13: tba
+* Lesson 14: tba
 
 *Note: All the learning group meetups will take place at tba.*
 
