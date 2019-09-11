@@ -69,8 +69,8 @@ This is the repository for the upcoming learning group meetup in October based o
 * tba 
 
 
-## 📚 Information material
-### 🗄️ Course
+## 🗄️ Information material
+### 📚 Course
 * [fast.ai v3 part 2 course details](https://www.fast.ai/2019/06/28/course-p2v3/)
 * [fast.ai v3 part 2 course material](https://course.fast.ai/part2) (this should be your first address if you are searching for something)
 * [fast.ai v3 part 2 course notebooks](https://github.com/fastai/course-v3/tree/master/nbs/dl2)
