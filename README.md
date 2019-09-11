@@ -2,7 +2,7 @@
 This is the repository for the upcoming learning group meetup in October based on [fast.ai v3 part 2 course](https://course.fast.ai/part2), [fastai v2 library](https://github.com/fastai/fastai_dev) (will be available soon), and [PyTorch v1](https://pytorch.org) course taking place in Vienna.
 (See also the repository from the previous [fastai pytorch course in Vienna v1](https://github.com/MicPie/fastai-pytorch-course-vienna) based on the [fast.ai v3 part 1 course material](https://course.fast.ai).)
 
-***[‼️ Registration is open and more information will be available soon! ‼️](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform)***
+***[❗ Registration is open and more information will be available soon. ❗](https://docs.google.com/forms/d/e/1FAIpQLScCEnJfFcyLQvT0rGd6HoN4oZf1lAe4ZnfWH1dfnXIQFyAMfQ/viewform)***
 
 
 ## 👉 Prerequisites
