@@ -15,7 +15,8 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 10: tba
 * Lesson 11: tba
 * Lesson 12: tba
-Note: All the learning group meetups will take place at tba.
+
+*Note: All the learning group meetups will take place at tba.*
 
 
 ## Lesson material
