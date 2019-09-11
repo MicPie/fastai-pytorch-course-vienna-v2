@@ -83,7 +83,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [TWiML fast.ai v3 part 2 study group material](https://github.com/jcatanza/Fastai-Deep-Learning-From-the-Foundations-TWiML-Study-Group)
 
 ### Preparation
- * [See preparation part from our first learning group.](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#preparation)
+ * [Preparation part from our first learning group](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#preparation)
  * [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#general-pytorch-deep-learning-ressources)
 
 ### Other
