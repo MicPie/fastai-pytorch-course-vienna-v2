@@ -84,9 +84,9 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ### Preparation
  * [See preparation part from our first learning group.](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#preparation)
+ * [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#general-pytorch-deep-learning-ressources)
 
 ### Other
  * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#learning-tips)
- * [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#general-pytorch-deep-learning-ressources)
  * [Do not forget, the path to mastery is not a straight line!](https://pbs.twimg.com/media/CX0hrijUAAABGIA.jpg:large) [(From the book "Chop Wood Carry Water".)](https://www.amazon.com/dp/153698440X)
  * Please feel free to send us suggestions!
