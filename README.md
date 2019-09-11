@@ -16,7 +16,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 10: tba
 * Lesson 11: tba
 * Lesson 12: tba
-### Xmas break
+### *Xmas break*
 ### Swift4Tensorflow part
 * Lesson 13: tba
 * Lesson 14: tba
