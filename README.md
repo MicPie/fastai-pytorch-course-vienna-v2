@@ -11,11 +11,11 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ## 📅 Dates
 #### 🐍 PyTorch Python part
-* Lesson 8: tba
-* Lesson 9: tba
-* Lesson 10: tba
-* Lesson 11: tba
-* Lesson 12: tba
+* Lesson 8: Calender week 42 - exact days will be announced soon!
+* Lesson 9: CW 45
+* Lesson 10: CW 47
+* Lesson 11: CW 49
+* Lesson 12: CW 51
 #### 🎄 Xmas break
 #### 🧮 Swift4Tensorflow part
 * Lesson 13: tba
