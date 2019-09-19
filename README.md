@@ -11,11 +11,11 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ## 📅 Dates
 #### 🐍 PyTorch Python part
-* Lesson 8: Calender week 42 - exact days will be announced soon!
-* Lesson 9: CW 45
-* Lesson 10: CW 47
-* Lesson 11: CW 49
-* Lesson 12: CW 51
+* Lesson 8: exact day to be announced soon
+* Lesson 9: 6.11.2019 18:30-20:30
+* Lesson 10: 20.11.2019 18:30-20:30
+* Lesson 11: exact day to be announced soon
+* Lesson 12: 18.12.29019 18:30-20:30
 #### 🎄 Xmas break
 #### 🧮 Swift4Tensorflow part
 * Lesson 13: tba
