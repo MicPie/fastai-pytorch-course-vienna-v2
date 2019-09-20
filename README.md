@@ -11,7 +11,7 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ## 📅 Dates
 #### 🐍 PyTorch Python part
-* Lesson 8: exact day to be announced soon
+* Lesson 8: 16.10.2019 18:00-20:00
 * Lesson 9: 6.11.2019 18:30-20:30
 * Lesson 10: 20.11.2019 18:30-20:30
 * Lesson 11: exact day to be announced soon
@@ -21,7 +21,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 13: tba
 * Lesson 14: tba
 
-*Note: All the learning group meetups will take place at tba.*
+*Note: All the learning group meetups will take place at Nic.at, Karlsplatz 1, 1010 Wien.*
 
 
 ## 📖 Lesson material
