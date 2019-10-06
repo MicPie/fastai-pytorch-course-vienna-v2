@@ -28,7 +28,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 8 - Matrix multiplication; forward and backward passes
 (The first lesson already starts with number 8, because the part 1 course contained 7 lessons.)
 * **To dos before the lesson:**
-  * **watch the [fastai lesson 8](https://course.fast.ai/videos/?lesson=8)**
+  * **watch the [fastai lesson 8](https://course.fast.ai/videos/?lesson=8) ([timlee lesson notes](https://forums.fast.ai/t/lesson-8-notes/41442/22))**
   * **run the [matrix multiplication](https://github.com/fastai/course-v3/blob/master/nbs/dl2/01_matmul.ipynb) and the [forward and backward pass](https://github.com/fastai/course-v3/blob/master/nbs/dl2/02_fully_connected.ipynb) notebooks**
   * [Matrix multiplication on German Wikipedia](https://de.wikipedia.org/wiki/Matrizenmultiplikation) (the German version has  better visualisations)
   * [Animated matrix multiplication](http://matrixmultiplication.xyz)
