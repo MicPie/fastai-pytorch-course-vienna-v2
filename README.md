@@ -30,7 +30,10 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **watch the [fastai lesson 8](https://course.fast.ai/videos/?lesson=8)**
   * **run the [lesson 8 notebook](https://github.com/fastai/course-v3/blob/master/nbs/dl2/01_matmul.ipynb)**
-* tba
+  * Refresh your PyTorch basics with the [lerning material from our previous fast.ai v3 part 1 learning group](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch).
+  * Get familiar with [PyTorch einsum](https://rockt.github.io/2018/04/30/einsum).
+* Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb) and [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) [video](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be))
+* [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
 
 ### Lesson 9 - Loss functions, optimizers, and the training loop
 * **To dos before the lesson:**
