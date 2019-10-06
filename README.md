@@ -36,7 +36,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
 * If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
 * Publications:
-  * [Matrix calculus for DL](https://explained.ai/matrix-calculus/index.html) [(pdf)](https://arxiv.org/abs/1802.01528) (In case you need a math refresher.)
+  * [Matrix calculus for DL](https://explained.ai/matrix-calculus/index.html) [(pdf)](https://arxiv.org/abs/1802.01528)
   * [Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
   * [He init](https://arxiv.org/abs/1502.01852)
   * [Fixup init](https://arxiv.org/abs/1901.09321)
