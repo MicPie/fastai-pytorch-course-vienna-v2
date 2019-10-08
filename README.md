@@ -36,15 +36,15 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
   * Refresh your PyTorch basics with the [lerning material from our previous fast.ai v3 part 1 learning group](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch).
   * Get familiar with [PyTorch einsum](https://rockt.github.io/2018/04/30/einsum) to get more intuition for matrix multiplication.
-* Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb) and [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be).
+* Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb) and [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be) (and [how to avoid it in the first place, i.e., the Karpathy recipe](http://karpathy.github.io/2019/04/25/recipe/)).
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
-* If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
 * Publications:
   * [Matrix calculus for DL (web)](https://explained.ai/matrix-calculus/index.html) [(arxiv)](https://arxiv.org/abs/1802.01528)
   * [Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
   * [He init](https://arxiv.org/abs/1502.01852)
   * [Fixup init](https://arxiv.org/abs/1901.09321)
   * If you want to present one of the papers in this or the next lectures reach out to us via email! :-)
+* If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
 
 ### Lesson 9 - Loss functions, optimizers, and the training loop
 * **To dos before the lesson:**
