@@ -39,11 +39,11 @@ This is the repository for the upcoming learning group meetup in October based o
 * Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb), [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be), and [how to avoid it in the first place (i.e., the Karpathy recipe)](http://karpathy.github.io/2019/04/25/recipe/).
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
 * [Why understanding backprop can be important for debugging.](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-* [Xavier and Kaiming init](https://pouannes.github.io/blog/initialization/)
+* [Xavier Glorot and Kaiming He init](https://pouannes.github.io/blog/initialization/)
 * Publications:
   * [Matrix calculus for DL (web)](https://explained.ai/matrix-calculus/index.html) [(arxiv)](https://arxiv.org/abs/1802.01528)
-  * [Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
-  * [He init](https://arxiv.org/abs/1502.01852)
+  * [Xavier Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
+  * [Kaiming He init](https://arxiv.org/abs/1502.01852)
   * [Fixup init](https://arxiv.org/abs/1901.09321)
   * If you want to present one of the papers in this or the next lectures reach out to us via email! :-)
 * If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
