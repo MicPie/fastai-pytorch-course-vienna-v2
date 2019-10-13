@@ -36,8 +36,8 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Broadcasting visualisation](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
   * Refresh your PyTorch basics with the [lerning material from our previous fast.ai v3 part 1 learning group](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch).
   * Get familiar with [PyTorch einsum](https://rockt.github.io/2018/04/30/einsum) to get more intuition for matrix multiplication.
-* Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb), [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be), and [how to avoid it in the first place (i.e., the Karpathy recipe)](http://karpathy.github.io/2019/04/25/recipe/).
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
+* Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb), [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be), and [how to avoid it in the first place (i.e., the Karpathy recipe)](http://karpathy.github.io/2019/04/25/recipe/).
 * [Why understanding backprop can be important for debugging.](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Xavier Glorot and Kaiming He init](https://pouannes.github.io/blog/initialization/)
 * Publications:
