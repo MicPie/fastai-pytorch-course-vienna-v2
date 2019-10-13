@@ -39,6 +39,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb), [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be), and [how to avoid it in the first place (i.e., the Karpathy recipe)](http://karpathy.github.io/2019/04/25/recipe/).
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
 * [Why understanding backprop can be important for debugging.](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+* [Xavier and Kaiming init](https://pouannes.github.io/blog/initialization/)
 * Publications:
   * [Matrix calculus for DL (web)](https://explained.ai/matrix-calculus/index.html) [(arxiv)](https://arxiv.org/abs/1802.01528)
   * [Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
