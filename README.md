@@ -50,6 +50,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * If you want to present one of the papers in this or the next lectures reach out to us via email! :-)
 * If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
 * PyTorch code examples: [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [Visual information theory](https://colah.github.io/posts/2015-09-Visual-Information/), [KL & cross entropy (see section 1., question 3.)](https://www.depthfirstlearning.com/2018/InfoGAN)
 
 ### Lesson 9 - Loss functions, optimizers, and the training loop
 * **To dos before the lesson:**
