@@ -47,6 +47,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Xavier Glorot init](http://proceedings.mlr.press/v9/glorot10a.html)
   * [Kaiming He init](https://arxiv.org/abs/1502.01852)
   * [Fixup init](https://arxiv.org/abs/1901.09321)
+  * [Batch norm](https://arxiv.org/pdf/1502.03167) and [how does it help optimization](https://arxiv.org/pdf/1805.11604)
   * If you want to present one of the papers in this or the next lectures reach out to us via email! :-)
 * If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
 * PyTorch code examples: [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
