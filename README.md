@@ -37,7 +37,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * Refresh your PyTorch basics with the [lerning material from our previous fast.ai v3 part 1 learning group](https://github.com/MicPie/fastai-pytorch-course-vienna#lesson-1---intro-to-fastai-and-pytorch).
   * Get familiar with [PyTorch einsum](https://rockt.github.io/2018/04/30/einsum) to get more intuition for matrix multiplication.
   * [What is torch.nn *really*?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) (This nicely explains the steps needed for training a deep learning model with PyTorch. It covers torch.nn, torch.optim, Dataset, and DataLoader. This setup is a "blueprint" for a deep learning library based on PyTorch.)
-* PyTorch basics: [Intro](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), [torch.nn](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_2_torchnn.ipynb), and [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb)
+* PyTorch basics: [Intro](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_1_Intro.ipynb), [torch.nn](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_2_torchnn.ipynb), [view vs. permute](https://github.com/MicPie/pytorch/blob/master/view_and_permute.ipynb), and [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb)
 * [fastai v2 dev test setup](https://github.com/fastai/fastai_dev/blob/master/dev/00_test.ipynb)
 * Go deeper with DL [debugging](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/PyTorch_3_debugging.ipynb), [troubleshooting (pdf](https://fullstackdeeplearning.com/assets/slides/fsdl_10_troubleshooting.pdf) or [video)](https://www.youtube.com/watch?v=GwGTwPcG0YM&feature=youtu.be), and [how to avoid it in the first place (i.e., the Karpathy recipe)](http://karpathy.github.io/2019/04/25/recipe/).
 * [Why understanding backprop can be important for debugging.](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
@@ -49,6 +49,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Fixup init](https://arxiv.org/abs/1901.09321)
   * If you want to present one of the papers in this or the next lectures reach out to us via email! :-)
 * If you want to know more about [matrix multiplication & Co. on your (Nvidia) GPU](https://devblogs.nvidia.com/cutlass-linear-algebra-cuda/).
+* PyTorch code examples: [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 ### Lesson 9 - Loss functions, optimizers, and the training loop
 * **To dos before the lesson:**
