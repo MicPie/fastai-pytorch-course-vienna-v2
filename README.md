@@ -62,9 +62,11 @@ This is the repository for the upcoming learning group meetup in October based o
   * **watch the [fastai lesson 9](https://course.fast.ai/videos/?lesson=9) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-9-notes-part-2-v3-ca046a1a62ef))**
   * **run the [lesson 9 notebook]()**
 * [A super intro to NN weight initialization from cs231n](https://cs231n.github.io/neural-networks-2/#init)
+* [Weights initialization](https://madaan.github.io/init/) - blog post about Xavier Initialization
 * [Neural Network visualizer playground](https://playground.tensorflow.org/) - allows you to play with parameters such as learning rate, batch size and regularization, and see the result while training directly on the browser
 * [What is torch.nn?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 * [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) - Twitter thread
+* [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 
 ### Lesson 10 - Looking inside the model
 * **To dos before the lesson:**
