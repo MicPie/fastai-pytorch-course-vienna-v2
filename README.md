@@ -71,7 +71,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 10 - Looking inside the model
 * **To dos before the lesson:**
   * **watch the [fastai lesson 10](https://course.fast.ai/videos/?lesson=10)**
-  * **run the [lesson 10 notebook]()**
+  * **run the lesson 10 notebook: [why sqrt(5)](https://github.com/fastai/course-v3/blob/master/nbs/dl2/02a_why_sqrt5.ipynb), [init](https://github.com/fastai/course-v3/blob/master/nbs/dl2/02b_initializing.ipynb), [minibatch training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/03_minibatch_training.ipynb), [callbacks](https://github.com/fastai/course-v3/blob/master/nbs/dl2/04_callbacks.ipynb), and [anneal](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05_anneal.ipynb)**
 * tba 
 
 ### Lesson 11 - Data Block API, and generic optimizer
