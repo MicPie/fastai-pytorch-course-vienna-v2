@@ -68,7 +68,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) (Twitter thread, combine with publication below.)
 * [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * Publications:
-  * [Spectral normalization](https://arxiv.org/pdf/1802.05957.pdf)
+  * [Spectral normalization](https://arxiv.org/abs/1802.05957)
   * [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
 
 ### Lesson 10 - Looking inside the model
