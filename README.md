@@ -65,9 +65,11 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Weights initialization](https://madaan.github.io/init/) - blog post about Xavier Initialization
 * [Neural Network visualizer playground](https://playground.tensorflow.org/) - allows you to play with parameters such as learning rate, batch size and regularization, and see the result while training directly on the browser
 * [What is torch.nn?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
-* [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) - Twitter thread
-* [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
+* [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) (Twitter thread, combine with publication below.)
 * [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
+* Publications:
+  * [Spectral normalization](https://arxiv.org/pdf/1802.05957.pdf)
+  * [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
 
 ### Lesson 10 - Looking inside the model
 * **To dos before the lesson:**
