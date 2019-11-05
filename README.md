@@ -66,6 +66,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Neural Network visualizer playground](https://playground.tensorflow.org/) - allows you to play with parameters such as learning rate, batch size and regularization, and see the result while training directly on the browser
 * [What is torch.nn?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 * [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) - Twitter thread
+* [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
 * [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 
 ### Lesson 10 - Looking inside the model
