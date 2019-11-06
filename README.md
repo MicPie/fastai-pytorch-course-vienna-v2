@@ -68,7 +68,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) (Twitter thread, combine with publication below.)
 * [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence) (have a look a the correlation coefficient figure)
-* Floating point basics: we (usually) use [FP32](https://en.wikipedia.org/wiki/Single-precision_floating-point_format#IEEE_754_single-precision_binary_floating-point_format:_binary32) or [FP16](https://en.wikipedia.org/wiki/Half-precision_floating-point_format#IEEE_754_half-precision_binary_floating-point_format:_binary16) (in combination with FP32) for [mixed precision training](https://forums.fast.ai/t/mixed-precision-training/20720) [(detailed information on floating point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html))
+* Floating point basics: we (usually) use [FP32](https://en.wikipedia.org/wiki/Single-precision_floating-point_format#IEEE_754_single-precision_binary_floating-point_format:_binary32) or [FP16](https://en.wikipedia.org/wiki/Half-precision_floating-point_format#IEEE_754_half-precision_binary_floating-point_format:_binary16) (in combination with FP32) for [mixed precision training](https://forums.fast.ai/t/mixed-precision-training/20720) ([detailed information on floating point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html))
 * Publications:
   * [Spectral normalization](https://arxiv.org/abs/1802.05957)
   * [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
