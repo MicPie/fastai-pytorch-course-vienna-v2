@@ -67,6 +67,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [What is torch.nn?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 * [Common neural network mistakes](https://twitter.com/karpathy/status/1013244313327681536) (Twitter thread, combine with publication below.)
 * [Pytorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
+* [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence) (have a look a the correlation coefficient figure)
 * Publications:
   * [Spectral normalization](https://arxiv.org/abs/1802.05957)
   * [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
