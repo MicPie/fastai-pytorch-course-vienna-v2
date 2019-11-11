@@ -61,6 +61,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **watch the [fastai lesson 9](https://course.fast.ai/videos/?lesson=9) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-9-notes-part-2-v3-ca046a1a62ef))**
   * **run the lesson 9 notebooks: [why sqrt(5)](https://github.com/fastai/course-v3/blob/master/nbs/dl2/02a_why_sqrt5.ipynb), [init](https://github.com/fastai/course-v3/blob/master/nbs/dl2/02b_initializing.ipynb), [minibatch training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/03_minibatch_training.ipynb), [callbacks](https://github.com/fastai/course-v3/blob/master/nbs/dl2/04_callbacks.ipynb), and [anneal](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05_anneal.ipynb)**
+* [Lesson presentation slides](https://github.com/MicPie/fastai-pytorch-course-vienna-v2/blob/master/fastai%20part%20II%20-%20lesson%209.pdf)
 * [A super intro to NN weight initialization from cs231n](https://cs231n.github.io/neural-networks-2/#init)
 * [Weights initialization](https://madaan.github.io/init/) - blog post about Xavier Initialization
 * [Neural Network visualizer playground](https://playground.tensorflow.org/) - allows you to play with parameters such as learning rate, batch size and regularization, and see the result while training directly on the browser
