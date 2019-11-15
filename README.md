@@ -73,14 +73,19 @@ This is the repository for the upcoming learning group meetup in October based o
 * Floating point basics: We (usually) use [FP32](https://en.wikipedia.org/wiki/Single-precision_floating-point_format#IEEE_754_single-precision_binary_floating-point_format:_binary32) or [FP16](https://en.wikipedia.org/wiki/Half-precision_floating-point_format#IEEE_754_half-precision_binary_floating-point_format:_binary16) (in combination with FP32) for [mixed precision training](https://forums.fast.ai/t/mixed-precision-training/20720) ([detailed information on floating point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)).
 * [Efficient Methods and Hardware for Deep Learning](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) (quantization, ternary net, & Co.)
 * Publications:
-  * [Spectral normalization](https://arxiv.org/abs/1802.05957)
   * [Taxonomy of Real Faults in Deep Learning Systems](https://arxiv.org/abs/1910.11015) (see page 7 for a nice overview)
 
 ### Lesson 10 - Looking inside the model
 * **To dos before the lesson:**
-  * **watch the [fastai lesson 10](https://course.fast.ai/videos/?lesson=10)**
-  * **run the [lesson 10 notebooks]()**
-* tba 
+  * **watch the [fastai lesson 10](https://course.fast.ai/videos/?lesson=10) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-10-notes-part-2-v3-aa733216b70d))**
+  * **run the lesson 10 notebooks: [foundations](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05a_foundations.ipynb)**
+* Publications:
+  * [Batch normalization](https://arxiv.org/abs/1502.03167)
+  * [Layer norm](https://arxiv.org/abs/1607.06450)
+  * [Instance norm](https://arxiv.org/abs/1607.08022)
+  * [Group norm](https://arxiv.org/abs/1803.08494)
+  * [Spectral norm](https://arxiv.org/abs/1802.05957)
+  * [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 
 ### Lesson 11 - Data Block API, and generic optimizer
 * **To dos before the lesson:**
