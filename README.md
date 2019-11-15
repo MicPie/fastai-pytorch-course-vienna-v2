@@ -79,6 +79,9 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **watch the [fastai lesson 10](https://course.fast.ai/videos/?lesson=10) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-10-notes-part-2-v3-aa733216b70d))**
   * **run the lesson 10 notebooks: [foundations](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05a_foundations.ipynb)**
+* [Python data model for _/_/dunder_/_/ & Co.](https://docs.python.org/3/reference/datamodel.html) & [a Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods)
+* [Illustrated Explanation of Performing 2D Convolutions Using Matrix Multiplications](https://medium.com/@_init_/an-illustrated-explanation-of-performing-2d-convolutions-using-matrix-multiplications-1e8de8cd2544)
+* tba
 * Publications:
   * [Batch normalization](https://arxiv.org/abs/1502.03167)
   * [Layer norm](https://arxiv.org/abs/1607.06450)
