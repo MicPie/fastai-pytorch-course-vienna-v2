@@ -78,12 +78,12 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 10 - Looking inside the model
 * **To dos before the lesson:**
   * **watch the [fastai lesson 10](https://course.fast.ai/videos/?lesson=10) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-10-notes-part-2-v3-aa733216b70d))**
-  * **run the lesson 10 notebooks: [foundations](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05a_foundations.ipynb), [early stopping](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05b_early_stopping.ipynb), [CUDA CNN hooks init](https://github.com/fastai/course-v3/blob/master/nbs/dl2/06_cuda_cnn_hooks_init.ipynb)**
+  * **run the lesson 10 notebooks: [foundations](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05a_foundations.ipynb), [early stopping](https://github.com/fastai/course-v3/blob/master/nbs/dl2/05b_early_stopping.ipynb), [CUDA CNN hooks init](https://github.com/fastai/course-v3/blob/master/nbs/dl2/06_cuda_cnn_hooks_init.ipynb), [batch norm](https://github.com/fastai/course-v3/blob/master/nbs/dl2/07_batchnorm.ipynb)**
 * [Python data model for \_\_dunder\_\_ & Co.](https://docs.python.org/3/reference/datamodel.html), [a Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods), and [exceptions](https://docs.python.org/3/library/exceptions.html)
 * [Illustrated Explanation of Performing 2D Convolutions Using Matrix Multiplications](https://medium.com/@_init_/an-illustrated-explanation-of-performing-2d-convolutions-using-matrix-multiplications-1e8de8cd2544)
 * [An infinitely customizable training loop with Sylvain Gugger](https://www.youtube.com/watch?v=roc-dOSeehM)
 * Publications:
-  * [Batch normalization](https://arxiv.org/abs/1502.03167)
+  * [Batch norm](https://arxiv.org/abs/1502.03167)
   * [Layer norm](https://arxiv.org/abs/1607.06450)
   * [Instance norm](https://arxiv.org/abs/1607.08022)
   * [Group norm](https://arxiv.org/abs/1803.08494)
