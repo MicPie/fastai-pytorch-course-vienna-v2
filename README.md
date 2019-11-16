@@ -89,6 +89,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Group norm](https://arxiv.org/abs/1803.08494)
   * [Spectral norm](https://arxiv.org/abs/1802.05957)
   * [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
+* Debugging: "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Kernighan’s law
 
 ### Lesson 11 - Data Block API, and generic optimizer
 * **To dos before the lesson:**
