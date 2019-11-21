@@ -93,10 +93,15 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ### Lesson 11 - Data Block API, and generic optimizer
 * **To dos before the lesson:**
-  * **watch the [fastai lesson 11](https://course.fast.ai/videos/?lesson=11)**
+  * **watch the [fastai lesson 11](https://course.fast.ai/videos/?lesson=11) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-11-notes-part-2-v3-6d28e17509f4))**
   * **run the [lesson 11 notebook]()**
+* [LSUV notebook](https://gist.github.com/simongrest/52404966f0c46f750a823a44618bb06c) (see publication below)
+* [CNNs: from the Basics to Recent Advances (Dmytro Mishkin)](http://ai.ms.mff.cuni.cz/~sui/mishkin.pdf)
+* [Imagenette dataset](https://github.com/fastai/imagenette)
 * [Exponentially weighted averages, momentum, RMSprob, and Adam](https://forums.fast.ai/t/lesson-11-discussion-and-wiki/43406/336)
-* tba 
+* Publications:
+  * [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
+  * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
 
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
 * **To dos before the lesson:**
