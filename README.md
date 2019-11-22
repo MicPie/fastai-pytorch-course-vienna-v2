@@ -11,7 +11,7 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ## 📅 Dates
 #### 🐍 PyTorch Python part
-* Lesson 8: 16.10.2019 18:00-20:00 - Matrix multiplicatio; Forward and backward passes - Michael Pieler
+* Lesson 8: 16.10.2019 18:00-20:00 - Matrix multiplication; Forward and backward passes - Michael Pieler
 * Lesson 9: 6.11.2019 18:30-20:30 - Loss functions, optimizers, and the training loop - Liad Magen & Thomas Keil
 * Lesson 10: 20.11.2019 18:30-20:30 - Looking inside the model - Albert Rechberger, Moritz Reinhardt, Johannes Hofmanninger
 * Lesson 11: 10.12.2019 - 18:30-20:30 - Data Block API, and generic optimizer - ?
