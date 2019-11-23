@@ -108,6 +108,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12)**
   * **run the [lesson 12 notebook]()**
+* [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
 * tba 
 
 ### Lesson 13 - Basics of Swift for Deep Learning
