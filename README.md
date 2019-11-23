@@ -99,6 +99,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [CNNs: from the Basics to Recent Advances (Dmytro Mishkin)](http://ai.ms.mff.cuni.cz/~sui/mishkin.pdf) (see also publication below)
 * [Imagenette dataset](https://github.com/fastai/imagenette)
 * [Exponentially weighted averages, momentum, RMSprob, and Adam](https://forums.fast.ai/t/lesson-11-discussion-and-wiki/43406/336)
+* [Optimizer setup in fastai v2](https://github.com/fastai/fastai_dev/blob/master/dev/12_optimizer.ipynb)
 * Publications:
   * [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
   * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
