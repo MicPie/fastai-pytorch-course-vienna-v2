@@ -103,6 +103,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
   * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
   * [L2 Regularization versus Batch and Weight Normalization](https://arxiv.org/abs/1706.05350)
+  * [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) (Adam with decoupled weight decay, i.e., AdamW)
 
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
 * **To dos before the lesson:**
