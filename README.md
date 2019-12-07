@@ -105,8 +105,8 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
   * [L2 Regularization versus Batch and Weight Normalization](https://arxiv.org/abs/1706.05350)
   * [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) (Adam with decoupled weight decay, i.e., AdamW)
-* ***Xmas Project: Please post or suggest (a) dataset(s) or kaggle compeitions! :-)***
-  * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about work by Google on transfer learning for medical imaging](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
+* ***Xmas project(s): Please suggest a project, dataset, kaggle competitions, etc.!***
+  * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about transfer learning for medical imaging by Google](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
   * [Understanding clouds](https://www.kaggle.com/c/understanding_cloud_organization)
 
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
