@@ -14,7 +14,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 8: 16.10.2019 18:00-20:00 - Matrix multiplication; Forward and backward passes - Michael Pieler
 * Lesson 9: 6.11.2019 18:30-20:30 - Loss functions, optimizers, and the training loop - Liad Magen & Thomas Keil
 * Lesson 10: 20.11.2019 18:30-20:30 - Looking inside the model - Albert Rechberger, Moritz Reinhardt, Johannes Hofmanninger
-* Lesson 11: 10.12.2019 - 18:30-20:30 - Data Block API, and generic optimizer - ?
+* Lesson 11: 10.12.2019 - 18:30-20:30 - Data Block API, and generic optimizer - Sebastian Dürr
 * Lesson 12: 18.12.29019 18:30-20:30 - Advanced training techniques; ULMFiT from scratch - ?
 #### 🎄 Xmas break
 #### 🧮 Swift4Tensorflow part
@@ -94,7 +94,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 11 - Data Block API, and generic optimizer
 * **To dos before the lesson:**
   * **watch the [fastai lesson 11](https://course.fast.ai/videos/?lesson=11) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-11-notes-part-2-v3-6d28e17509f4))**
-  * **run the [lesson 11 notebook]()**
+  * **run the lesson 11 notebooks: [LSUV](https://github.com/fastai/course-v3/blob/master/nbs/dl2/07a_lsuv.ipynb), [Data Block API](https://github.com/fastai/course-v3/blob/master/nbs/dl2/08_data_block.ipynb), [Optimizers](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09_optimizers.ipynb), [new Learner](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09b_learner.ipynb), [progress bar for Learner](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09c_add_progress_bar.ipynb), and [Data Augmentation](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10_augmentation.ipynb)**
 * [LSUV notebook](https://gist.github.com/simongrest/52404966f0c46f750a823a44618bb06c) (see also publication below)
 * [CNNs: from the Basics to Recent Advances (Dmytro Mishkin)](http://ai.ms.mff.cuni.cz/~sui/mishkin.pdf) (see also publication below)
 * [Imagenette dataset](https://github.com/fastai/imagenette)
