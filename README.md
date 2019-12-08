@@ -105,6 +105,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
   * [L2 Regularization versus Batch and Weight Normalization](https://arxiv.org/abs/1706.05350)
   * [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) (Adam with decoupled weight decay, i.e., AdamW)
+  * Blog post on [understanding the LARS/LAMB optimizer](https://towardsdatascience.com/an-intuitive-understanding-of-the-lamb-optimizer-46f8c0ae4866)
 * ***Xmas project(s): Please suggest a project, dataset, kaggle competitions, etc.!***
   * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about transfer learning for medical imaging by Google](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
   * [Understanding clouds](https://www.kaggle.com/c/understanding_cloud_organization)
