@@ -14,12 +14,12 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 8: 16.10.2019 18:00-20:00 - Matrix multiplication; Forward and backward passes - Michael Pieler
 * Lesson 9: 6.11.2019 18:30-20:30 - Loss functions, optimizers, and the training loop - Liad Magen & Thomas Keil
 * Lesson 10: 20.11.2019 18:30-20:30 - Looking inside the model - Albert Rechberger, Moritz Reinhardt, Johannes Hofmanninger
-* Lesson 11: 10.12.2019 - 18:30-20:30 - Data Block API, and generic optimizer - Sebastian Dürr
+* Lesson 11: 10.12.2019 18:30-20:30 - Data Block API, and generic optimizer - Sebastian Dürr
 * Lesson 12: 18.12.29019 18:30-20:30 - Advanced training techniques; ULMFiT from scratch - ?
 #### 🎄 Xmas break
 #### 🧮 Swift4Tensorflow part
-* Lesson 13: tba
-* Lesson 14: tba
+* Lesson 13: 15.01.2020 18:30-20:30 - ?
+* Lesson 14: 05.02.2020 18:30-20:30 - ?
 
 *Note: All the learning group meetups will take place at Nic.at, Karlsplatz 1, 1010 Wien.*
 
