@@ -117,6 +117,11 @@ This is the repository for the upcoming learning group meetup in October based o
 * [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
 * [AugMix](https://github.com/google-research/augmix)
 * [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
+* Publications:
+  * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
+  * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
+  * []()
+  * []()
 * tba 
 
 ### Lesson 13 - Basics of Swift for Deep Learning
