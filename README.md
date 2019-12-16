@@ -117,7 +117,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Publications:
   * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
   * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
-  * []()
+  * [Adversarial Examples Improve Image Recognition](https://arxiv.org/abs/1911.09665) (Why you always should take care about BN!)
   * []()
 * ***Xmas project(s): Please suggest a project, dataset, kaggle competitions, etc.!***
   * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about transfer learning for medical imaging by Google](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
