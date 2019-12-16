@@ -100,8 +100,6 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Imagenette dataset](https://github.com/fastai/imagenette)
 * [Exponentially weighted averages, momentum, RMSprob, and Adam](https://forums.fast.ai/t/lesson-11-discussion-and-wiki/43406/336)
 * [Optimizer setup in fastai v2](https://github.com/fastai/fastai_dev/blob/master/dev/12_optimizer.ipynb)
-* [AugMix](https://github.com/google-research/augmix)
-* [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
 * Publications:
   * [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
   * [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228)
@@ -115,8 +113,10 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
 * **To dos before the lesson:**
   * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12)**
-  * **run the [lesson 12 notebook]()**
+  * **run the lesson 12 notebooks: [MixUp & Label Smoothing](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10b_mixup_label_smoothing.ipynb), [Mixed Precision Training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10c_fp16.ipynb), [Train Imagenette](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11_train_imagenette.ipynb), [Transfer Learning](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11a_transfer_learning.ipynb), [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
 * [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
+* [AugMix](https://github.com/google-research/augmix)
+* [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
 * tba 
 
 ### Lesson 13 - Basics of Swift for Deep Learning
