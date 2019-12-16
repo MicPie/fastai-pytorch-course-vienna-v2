@@ -116,7 +116,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
 * Publications:
   * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
-  * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
+  * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
   * []()
   * []()
 * ***Xmas project(s): Please suggest a project, dataset, kaggle competitions, etc.!***
