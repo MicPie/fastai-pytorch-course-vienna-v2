@@ -112,7 +112,7 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
 * **To dos before the lesson:**
-  * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12)**
+  * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-12-notes-part-2-v3-dd53bec89c0b))**
   * **run the lesson 12 notebooks: [MixUp & Label Smoothing](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10b_mixup_label_smoothing.ipynb), [Mixed Precision Training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10c_fp16.ipynb), [Train Imagenette](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11_train_imagenette.ipynb), [Transfer Learning](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11a_transfer_learning.ipynb), [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
 * [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
 * [AugMix](https://github.com/google-research/augmix)
