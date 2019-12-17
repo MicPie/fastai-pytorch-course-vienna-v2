@@ -119,9 +119,13 @@ This is the repository for the upcoming learning group meetup in October based o
   * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
   * [Adversarial Examples Improve Image Recognition](https://arxiv.org/abs/1911.09665) (Why you always should take care about BN!)
   * []()
-* ***Xmas project(s): Please suggest a project, dataset, kaggle competitions, etc.!***
+
+### Xmas projects
+* **Please suggest a project, dataset, kaggle competitions, etc.!**
   * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about transfer learning for medical imaging by Google](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
   * [Understanding clouds](https://www.kaggle.com/c/understanding_cloud_organization)
+  * [Get familiar with fastai v2 based on the part 1 notebooks](https://github.com/fastai/fastai_dev/tree/master/dev/course)
+  * [Other competitive data science platforms you can have a look at](https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c=
 
 ### Lesson 13 - Basics of Swift for Deep Learning
 * **To dos before the lesson:**
