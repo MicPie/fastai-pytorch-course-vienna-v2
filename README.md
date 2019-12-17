@@ -114,6 +114,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
 * [AugMix](https://github.com/google-research/augmix)
 * [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
+* [fastai XResNet models](https://github.com/fastai/fastai/blob/master/fastai/vision/models/xresnet.py)
 * Publications:
   * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
   * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
