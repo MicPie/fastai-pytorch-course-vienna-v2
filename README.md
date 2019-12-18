@@ -121,7 +121,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Adversarial Examples Improve Image Recognition](https://arxiv.org/abs/1911.09665) (Why you always should take care about BN!)
  * *We will cover the text/NLP notebooks from lesson 12 in the lessons after Xmas in order to have more time and go deeper on the concepts!*
 
-### Xmas projects
+### 🎄 Xmas projects
 * **Please suggest a project, dataset, kaggle competitions, etc.!**
   * [APTOS2019 blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection) (in combination with the interesting starting points outlined in a [blog post about transfer learning for medical imaging by Google](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html))
   * [Understanding clouds](https://www.kaggle.com/c/understanding_cloud_organization)
