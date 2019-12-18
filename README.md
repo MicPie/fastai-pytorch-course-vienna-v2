@@ -95,6 +95,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **watch the [fastai lesson 11](https://course.fast.ai/videos/?lesson=11) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-11-notes-part-2-v3-6d28e17509f4))**
   * **run the lesson 11 notebooks: [LSUV](https://github.com/fastai/course-v3/blob/master/nbs/dl2/07a_lsuv.ipynb), [Data Block API](https://github.com/fastai/course-v3/blob/master/nbs/dl2/08_data_block.ipynb), [Optimizers](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09_optimizers.ipynb), [new Learner](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09b_learner.ipynb), [progress bar for Learner](https://github.com/fastai/course-v3/blob/master/nbs/dl2/09c_add_progress_bar.ipynb), and [Data Augmentation](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10_augmentation.ipynb)**
+* [Lesson 11 presentation](https://github.com/MicPie/fastai-pytorch-course-vienna-v2/blob/master/fastai_session_11_vienna-study-group_public.pdf)
 * [LSUV notebook](https://gist.github.com/simongrest/52404966f0c46f750a823a44618bb06c) (see also publication below)
 * [CNNs: from the Basics to Recent Advances (Dmytro Mishkin)](http://ai.ms.mff.cuni.cz/~sui/mishkin.pdf) (see also publication below)
 * [Imagenette dataset](https://github.com/fastai/imagenette)
