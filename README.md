@@ -116,6 +116,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * [AugMix](https://github.com/google-research/augmix)
 * [Albumentations image data augmentation library](https://albumentations.readthedocs.io/en/latest/)
 * [fastai XResNet models](https://github.com/fastai/fastai/blob/master/fastai/vision/models/xresnet.py)
+* [A Full Hardware Guide to Deep Learning by Tim Dettmers](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 * Publications:
   * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
   * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
