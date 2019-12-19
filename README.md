@@ -121,6 +121,10 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Bag of Tricks for Image Classification with CNNs](https://arxiv.org/abs/1812.01187) (Highly recommended!)
   * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) ([Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution))
   * [Adversarial Examples Improve Image Recognition](https://arxiv.org/abs/1911.09665) (Why you always should take care about BN!)
+  * [Very interesting blog post series on adversarial learning](http://gradientscience.org)
+  * [Understanding the generalization of ‘lottery tickets’ in neural networks](https://ai.facebook.com/blog/understanding-the-generalization-of-lottery-tickets-in-neural-networks/)
+  * [What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/abs/1911.13299)
+  * [Understandning transfer learning for medical imaging](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html)
  * *We will cover the text/NLP notebooks from lesson 12 in the lessons after Xmas in order to have more time and go deeper on the concepts!*
 
 ### 🎄 Xmas projects
