@@ -143,6 +143,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * **run the [lesson 13 notebook]()**
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
+* [SentencePiece](https://github.com/google/sentencepiece)
 * Publications:
   * [AWD-LSTM](https://arxiv.org/abs/1708.02182)
   * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
