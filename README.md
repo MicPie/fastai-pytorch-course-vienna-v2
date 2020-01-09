@@ -111,7 +111,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 12 - Advanced training techniques; ULMFiT from scratch
 * **To dos before the lesson:**
   * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-12-notes-part-2-v3-dd53bec89c0b))**
-  * **run the lesson 12 notebooks: [MixUp & Label Smoothing](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10b_mixup_label_smoothing.ipynb), [Mixed Precision Training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10c_fp16.ipynb), [Train Imagenette](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11_train_imagenette.ipynb), [Transfer Learning](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11a_transfer_learning.ipynb), [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
+  * **run the lesson 12 notebooks: [MixUp & Label Smoothing](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10b_mixup_label_smoothing.ipynb), [Mixed Precision Training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10c_fp16.ipynb), [Train Imagenette](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11_train_imagenette.ipynb), and [Transfer Learning](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11a_transfer_learning.ipynb). **
 * [Coordinate Transform pipeline](https://forums.fast.ai/t/new-coordinate-transforms-pipeline/19790)
 * [MixUp, CutMix, and others for fastai](https://github.com/oguiza/fastai_extensions)
 * [AugMix](https://github.com/google-research/augmix)
@@ -138,9 +138,16 @@ This is the repository for the upcoming learning group meetup in October based o
 
 ### Lesson 13 - Basics of Swift for Deep Learning
 * **To dos before the lesson:**
+  * **run the remaining lesson 12 notebooks: [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
   * **watch the [fastai lesson 13](https://course.fast.ai/videos/?lesson=13)**
   * **run the [lesson 13 notebook]()**
-* tba 
+* [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
+* Publications:
+  * [AWD-LSTM](https://arxiv.org/abs/1708.02182)
+  * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
+  * [MultiFiT](https://nlp.fast.ai/classification/2019/09/10/multifit.html)
+  * [QRNN](https://arxiv.org/abs/1611.01576)
+
 
 ### Lesson 14 - C interop; Protocols; Putting it all together
 * **To dos before the lesson:**
