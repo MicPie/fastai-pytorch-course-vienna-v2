@@ -147,6 +147,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
   * [MultiFiT](https://nlp.fast.ai/classification/2019/09/10/multifit.html)
   * [QRNN](https://arxiv.org/abs/1611.01576)
+  * [Single Headed Attention RNN (SHA-RNN)](https://arxiv.org/abs/1911.11423) ([code](https://github.com/Smerity/sha-rnn))
 
 
 ### Lesson 14 - C interop; Protocols; Putting it all together
