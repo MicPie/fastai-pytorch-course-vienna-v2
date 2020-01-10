@@ -140,7 +140,6 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **run the remaining lesson 12 notebooks: [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
   * **watch the [fastai lesson 13](https://course.fast.ai/videos/?lesson=13)**
-  * **run the [lesson 13 notebook]()**
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
 * [SentencePiece](https://github.com/google/sentencepiece)
@@ -155,8 +154,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 14 - C interop; Protocols; Putting it all together
 * **To dos before the lesson:**
   * **watch the [fastai lesson 14](https://course.fast.ai/videos/?lesson=14)**
-  * **run the [lesson 14 notebook]()**
-* tba 
+* Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 
 
 ## 🗄️ Information material
