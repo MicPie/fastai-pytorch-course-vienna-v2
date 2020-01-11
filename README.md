@@ -154,6 +154,7 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 14 - C interop; Protocols; Putting it all together
 * **To dos before the lesson:**
   * **watch the [fastai lesson 14](https://course.fast.ai/videos/?lesson=14)**
+  * watch the [fastai v2 overview and the state of swiftai (at S4TF Design Meeting 2019-11-08)](https://www.youtube.com/watch?v=imsBjsWLJzE)
 * Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 
 
