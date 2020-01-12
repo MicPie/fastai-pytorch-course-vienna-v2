@@ -140,13 +140,13 @@ This is the repository for the upcoming learning group meetup in October based o
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
 * [SentencePiece](https://github.com/google/sentencepiece)
-* Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 * Publications:
   * [AWD-LSTM](https://arxiv.org/abs/1708.02182)
   * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
   * [MultiFiT](https://nlp.fast.ai/classification/2019/09/10/multifit.html)
   * [QRNN](https://arxiv.org/abs/1611.01576)
   * [Single Headed Attention RNN (SHA-RNN)](https://arxiv.org/abs/1911.11423) ([code](https://github.com/Smerity/sha-rnn))
+* Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 
 
 ### Swift4Tensorflow (S4TF) Lesson 13 & 14
