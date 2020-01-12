@@ -17,9 +17,7 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 11: 10.12.2019 18:30-20:30 - Data Block API, and generic optimizer - Sebastian Dürr
 * Lesson 12: 18.12.29019 18:30-20:30 - Advanced training techniques; ULMFiT from scratch - Michael M. Pieler
 #### 🎄 Xmas break
-#### 🧮 Swift4Tensorflow part
-* Lesson 13: 15.01.2020 18:30-20:30 - ?
-* Lesson 14: 05.02.2020 18:30-20:30 - ?
+* Lesson 13: 15.01.2020 18:30-20:30 - Text/NLP notebooks - Liad Magen & Michael M. Pieler (**Last meetup!**)
 
 *Note: All the learning group meetups will take place at Nic.at, Karlsplatz 1, 1010 Wien.*
 
@@ -139,10 +137,10 @@ This is the repository for the upcoming learning group meetup in October based o
 ### Lesson 13 - Basics of Swift for Deep Learning
 * **To dos before the lesson:**
   * **run the remaining lesson 12 notebooks: [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
-  * **watch the [fastai lesson 13](https://course.fast.ai/videos/?lesson=13)**
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
 * [SentencePiece](https://github.com/google/sentencepiece)
+* Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 * Publications:
   * [AWD-LSTM](https://arxiv.org/abs/1708.02182)
   * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
@@ -151,11 +149,11 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Single Headed Attention RNN (SHA-RNN)](https://arxiv.org/abs/1911.11423) ([code](https://github.com/Smerity/sha-rnn))
 
 
-### Lesson 14 - C interop; Protocols; Putting it all together
-* **To dos before the lesson:**
-  * **watch the [fastai lesson 14](https://course.fast.ai/videos/?lesson=14)**
-  * watch the [fastai v2 overview and the state of swiftai (at S4TF Design Meeting 2019-11-08)](https://www.youtube.com/watch?v=imsBjsWLJzE)
-* Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
+### Swift4Tensorflow (S4TF) Lesson 13 & 14
+* **We will not covered the S4TF part in our meetup, but feel free to explore the material at your pace:**
+  * [fastai v2 overview and the state of swiftai (at S4TF Design Meeting 2019-11-08)](https://www.youtube.com/watch?v=imsBjsWLJzE)
+  * [fastai lesson 13](https://course.fast.ai/videos/?lesson=13)
+  * [fastai lesson 14](https://course.fast.ai/videos/?lesson=14)
 
 
 ## 🗄️ Information material
