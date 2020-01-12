@@ -15,9 +15,9 @@ This is the repository for the upcoming learning group meetup in October based o
 * Lesson 9: 6.11.2019 18:30-20:30 - Loss functions, optimizers, and the training loop - Liad Magen & Thomas Keil
 * Lesson 10: 20.11.2019 18:30-20:30 - Looking inside the model - Albert Rechberger, Moritz Reinhardt, Johannes Hofmanninger
 * Lesson 11: 10.12.2019 18:30-20:30 - Data Block API, and generic optimizer - Sebastian Dürr
-* Lesson 12: 18.12.29019 18:30-20:30 - Advanced training techniques; ULMFiT from scratch - Michael M. Pieler
+* Lesson 12: 18.12.29019 18:30-20:30 - Advanced training techniques - Michael M. Pieler
 #### 🎄 Xmas break
-* Lesson 13: 15.01.2020 18:30-20:30 - Text/NLP notebooks - Liad Magen & Michael M. Pieler (**Last meetup!**)
+* Lesson 13: 15.01.2020 18:30-20:30 - ULMFiT from scratch - Liad Magen & Michael M. Pieler (**Last meetup!**)
 
 *Note: All the learning group meetups will take place at Nic.at, Karlsplatz 1, 1010 Wien.*
 
