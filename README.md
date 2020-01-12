@@ -106,7 +106,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) (Adam with decoupled weight decay, i.e., AdamW)
   * Blog post on [understanding the LARS/LAMB optimizer](https://towardsdatascience.com/an-intuitive-understanding-of-the-lamb-optimizer-46f8c0ae4866)
 
-### Lesson 12 - Advanced training techniques; ULMFiT from scratch
+### Lesson 12 - Advanced training techniques
 * **To dos before the lesson:**
   * **watch the [fastai lesson 12](https://course.fast.ai/videos/?lesson=12) ([lesson notes](https://medium.com/@lankinen/fast-ai-lesson-12-notes-part-2-v3-dd53bec89c0b))**
   * **run the lesson 12 notebooks: [MixUp & Label Smoothing](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10b_mixup_label_smoothing.ipynb), [Mixed Precision Training](https://github.com/fastai/course-v3/blob/master/nbs/dl2/10c_fp16.ipynb), [Train Imagenette](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11_train_imagenette.ipynb), and [Transfer Learning](https://github.com/fastai/course-v3/blob/master/nbs/dl2/11a_transfer_learning.ipynb).**
@@ -134,7 +134,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [Get familiar with fastai v2 based on the part 1 notebooks](https://github.com/fastai/fastai_dev/tree/master/dev/course)
   * [Other competitive data science platforms you can have a look at](https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c)
 
-### Lesson 13 - Basics of Swift for Deep Learning
+### Lesson 12 continued - ULMFiT from scratch
 * **To dos before the lesson:**
   * **run the remaining lesson 12 notebooks: [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -150,7 +150,7 @@ This is the repository for the upcoming learning group meetup in October based o
 
 
 ### Swift4Tensorflow (S4TF) Lesson 13 & 14
-* **We will not covered the S4TF part in our meetup, but feel free to explore the material at your pace:**
+* **We will not cover the S4TF part in our meetup series, but feel free to explore the material at your pace:**
   * [fastai v2 overview and the state of swiftai (at S4TF Design Meeting 2019-11-08)](https://www.youtube.com/watch?v=imsBjsWLJzE)
   * [fastai lesson 13](https://course.fast.ai/videos/?lesson=13)
   * [fastai lesson 14](https://course.fast.ai/videos/?lesson=14)
