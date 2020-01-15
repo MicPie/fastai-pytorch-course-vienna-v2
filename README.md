@@ -183,11 +183,10 @@ This is the repository for the upcoming learning group meetup in October based o
 
 # Topics not covered yet in the fast.ai course
   * Deep Reinforcement Learning 
-  * GANs (more)
+  * GANs
   * Transformers
   * BERT
   * [Multifit](https://nlp.fast.ai/classification/2019/10/multifit.html)
   * [Sentencepiece](https://github.com/google/sentencepiece)
-  * [QuasiRNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained) also: github.com/n-waves/multifit
-  * 
-  * ... please add important topics which should be covered in a future course...
+  * [Quasi RNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained) also: github.com/n-waves/multifit
+  * Feel free to add important topics which should be covered in a future courses!
