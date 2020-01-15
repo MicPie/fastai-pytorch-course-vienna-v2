@@ -181,7 +181,7 @@ This is the repository for the upcoming learning group meetup in October based o
  * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#learning-tips)
  * Please feel free to send us suggestions!
 
-# Topics not covered yet in the fast.ai course
+### ❔ Topics not yet covered in the course
   * Deep Reinforcement Learning 
   * GANs
   * Transformers
