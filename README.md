@@ -185,7 +185,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * BERT
   * [Multifit](https://nlp.fast.ai/classification/2019/10/multifit.html) ([code](github.com/n-waves/multifit))
   * [Sentencepiece](https://github.com/google/sentencepiece)
-  * [Quasi RNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained)
+  * [Quasi-RNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained)
   * Feel free to add important topics which should be covered in a future courses!
 
 ### 💡 Others
