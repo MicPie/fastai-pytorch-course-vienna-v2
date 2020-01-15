@@ -177,16 +177,16 @@ This is the repository for the upcoming learning group meetup in October based o
  * [Preparation part from our first learning group](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#preparation)
  * [General PyTorch Deep Learning ressources](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#general-pytorch-deep-learning-ressources)
 
-### 💡 Others
- * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#learning-tips)
- * Please feel free to send us suggestions!
-
 ### ❔ Topics not yet covered in the course
   * Deep Reinforcement Learning 
   * GANs
   * Transformers
   * BERT
-  * [Multifit](https://nlp.fast.ai/classification/2019/10/multifit.html)
+  * [Multifit](https://nlp.fast.ai/classification/2019/10/multifit.html) ([code](github.com/n-waves/multifit))
   * [Sentencepiece](https://github.com/google/sentencepiece)
-  * [Quasi RNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained) also: github.com/n-waves/multifit
+  * [Quasi RNN (QRNN)](mlexplained.com/2018/04/09/paper-dissected-quasi-recurrent-neural-networks-explained)
   * Feel free to add important topics which should be covered in a future courses!
+
+### 💡 Others
+ * [Learning tips](https://github.com/MicPie/fastai-pytorch-course-vienna/blob/master/README.md#learning-tips)
+ * Please feel free to send us suggestions!
