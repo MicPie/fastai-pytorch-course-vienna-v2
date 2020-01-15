@@ -185,4 +185,5 @@ This is the repository for the upcoming learning group meetup in October based o
   * Deep Reinforcement Learning 
   * GANs (more)
   * Transformers
+  * BERT
   * ... please add important topics which should be covered in a future course...
