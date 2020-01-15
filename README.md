@@ -138,9 +138,9 @@ This is the repository for the upcoming learning group meetup in October based o
 * **To dos before the lesson:**
   * **run the remaining lesson 12 notebooks: [Text](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12_text.ipynb), [AWD-LSTM](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12a_awd_lstm.ipynb), [Language Model Pretraining](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12b_lm_pretrain.ipynb), and [ULMFiT](https://github.com/fastai/course-v3/blob/master/nbs/dl2/12c_ulmfit.ipynb)**
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Language Models (e.g. ULMFiT) vs. Masked Language Models (e.g. BERT)](https://twitter.com/thom_wolf/status/1186225108282757120?s=21)
 * [fastai AWD-LSTM docs](https://dev.fast.ai/text.models.awdlstm#AWD_LSTM)
 * [SentencePiece](https://github.com/google/sentencepiece)
+* [Language Models (e.g. ULMFiT) vs. Masked Language Models (e.g. BERT)](https://twitter.com/thom_wolf/status/1186225108282757120?s=21)
 * Publications:
   * [AWD-LSTM](https://arxiv.org/abs/1708.02182)
   * ULMFiT: [article](https://nlp.fast.ai/classification/2018/05/15/introducing-ulmfit.html) & [publication](https://arxiv.org/abs/1801.06146)
