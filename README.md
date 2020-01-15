@@ -148,6 +148,7 @@ This is the repository for the upcoming learning group meetup in October based o
   * [QRNN](https://arxiv.org/abs/1611.01576)
   * [Single Headed Attention RNN (SHA-RNN)](https://arxiv.org/abs/1911.11423) ([code](https://github.com/Smerity/sha-rnn))
 * [RSNA Intracranial Hemorrhage Kaggle Competition](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117242)
+* [Softmax & log-likelihood?](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
 * Final wrap up of the material from our fast.ai v3 part 2 PyTorch learning group!
 * [Build your foundation (Blooms taxonomy)](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
 * [Do not forget, the path to mastery is not a straight line!](https://pbs.twimg.com/media/CX0hrijUAAABGIA.jpg:large) [(From the book "Chop Wood Carry Water".)](https://www.amazon.com/dp/153698440X)
